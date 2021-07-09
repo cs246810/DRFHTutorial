@@ -19,3 +19,7 @@
 
 结果有点差强人意，确实出现了结果，但是，这里出现的说text为null的数据，显然我没有找到正确的使用drf_haystack
 的方法。
+
+后来我换上whoosh之后，居然奇迹般的出现了结果。
+
+![](https://github.com/cs246810/DRFHTutorial/blob/master/whoosh.png)
